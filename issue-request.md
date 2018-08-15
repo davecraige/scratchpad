@@ -12,7 +12,7 @@ Here is a guide on how to properly format your issues for clarity and legibility
 - [ ] Platform used (OS version, browser version)
 - [ ] Any detail that can help developer reproduce/troubleshoot is helpful: screenshot, short video, and any messages that show up in the browser console. More detail is always appreciated.
 
-If you need help or have any questions, please ask in our **#qa-testing channel** in [our Discord](https://OriginProtocol.com/discord ). Thank you.
+If you need help or have any questions, please ask in our **#qa-testing** channel in [our Discord](https://OriginProtocol.com/discord ). Thank you.
 
 
 
